@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div1 {
+    background-color: hsla(0, 90%, 99%, 1);
+    /* color: hsla(0, 50%, 20%, 1); */
+    padding: 5% 28%;
+    text-align: center;
+    margin-bottom: 10%;
+}
+.h2ofdiv1 {
+    color: hsla(0, 50%, 20%, 1);
+    font-family: 'Calibri';
+    font-weight: 600;
+    margin-bottom: 12%;
+}
+.h1ofdiv1 {
+    color: hsla(0, 50%, 20%, 1);
+    font-family: 'Calibri';
+    font-weight: 600;
+    margin-bottom: 5%;
+}
+.p1ofdiv1 {
+    font-family: 'Calibri';
+    margin-bottom: 15%;
+    color: hsla(0, 50%, 20%, 1);
+}
+span {
+    color: red;
+}
+button {
+    margin-bottom: 15%;
+    padding: 1.5% 3%;
+    margin-right: 3%;
+    font-family: 'Calibri';
+    border: 1px solid red;
+}
+.btn1 {
+    background-color: hsla(0, 70%, 50%, 1);
+    color: white;
+}
+.btn2 {
+    background-color: white;
+    color: red;
+}
+.btn1:hover {
+    background-color: white;
+    color: red;
+}
+.btn2:hover {
+    background-color: hsla(0, 70%, 50%, 1);
+    color: white;
+}
+.nondiv {
+    width: 15%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.p1ofnondiv {
+    font-size: 12px;
+    font-family: 'Calibri';
+    color: red;
+    margin-bottom: 5%;
+
+}
+.p2ofnondiv {
+    font-family: 'Calibri';
+    color: hsla(0, 50%, 20%, 1);
+}
+.cardpapa {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Calibri';
+    margin: 0px 5% 15%;
+}
+.cardchild {
+    width: 30%;
+    /* height: 80%; */
+    background-color: hsla(0, 90%, 99%, 1);
+    
+}
+.p1 {
+    display: inline-block;
+    background-color: white;
+    font-weight: 600;
+    padding: 30px 10px;
+    margin: 10% 7% 10%;
+}
+.p2 {
+    margin: 0% 10% 10% 7%;
+    width: 73%;
+    color: hsla(0, 50%, 20%, 1);
+}
+.cardchild a {
+    margin: 0% 10% 0% 7%;
+    text-decoration: none;
+    color: red;
+}
+.footer {
+    margin: 0 8%;
+    font-family: 'Calibri';
+    display: flex;
+    justify-content: space-between;
+    color: hsla(0, 50%, 20%, 1);
+    margin-bottom: 5%;
+}
+ul {
+    font-weight: 600;
+}
+ul li {
+    list-style-type: none;
+}
+ul a {
+    text-decoration: none;
+    color: red;
+    font-size: 14px;
+    font-weight: normal;
+}
+pre {
+    font-family: 'Calibri';
+    font-weight: 600;
+}
+pre p {
+    font-weight: normal;
+    font-size: 14px;
+}
+pre a {
+    text-decoration: none;
+    color: red;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+
+
+
+hr {
+    margin: 2% 8%;
+    background-color: #ddd;
+    height: 2px;
+    border: none;
+}
+.copyright {
+    font-family: 'Calibri';
+    text-align: center;
+    margin-bottom: 5%;
+    font-weight: 600;
+    color: hsla(0, 50%, 20%, 1);
+}
